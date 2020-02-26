@@ -2,7 +2,7 @@ library easy_toast;
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:easy_toast/src/const.dart';
+import 'package:easy_toast/const.dart';
 
 class Toast extends StatefulWidget {
   final String msg;
