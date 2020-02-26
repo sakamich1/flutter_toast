@@ -1,4 +1,4 @@
-library simple_toast;
+library easy_toast;
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

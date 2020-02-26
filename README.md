@@ -1,4 +1,4 @@
-# simple_toast
+# easy_toast
 
 A  simple flutter toast library with Android styled
 
